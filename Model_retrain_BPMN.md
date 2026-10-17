@@ -1,3 +1,5 @@
+<img width="2640" height="1060" alt="retrain_bpmn" src="https://github.com/user-attachments/assets/58d51fd2-ccdd-4e69-a5cb-85049ab94979" />
+
 # Схема процесса автоматического переобучения модели
 
 Последовательность этапов:
